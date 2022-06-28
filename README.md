@@ -11,9 +11,13 @@ A tech freak, wanting to know about the current technological advancements in ou
 - 👯 I’m looking to collaborate on Robotics and Deep Learning projects.
 - 🤔 I’m looking for help with Natural Language Processing.
 - 💬 Ask me about anything but my dreams and goals.
-- 📫 How to reach me: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+- 📫 How to reach me: [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] [![linkedin](https://img.shields.io/badge/LinkedIn-2596be?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/techguyayan2601/) [![gmail](https://img.shields.io/badge/G-Mail-E21515?style=for-the-badge&logo=Gmail&logoColor=white)]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: How do you know I will be funny if you don't reach me😒😒.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayancodes2601&layout=compact)](https://github.com/Ayancodes2601)
+
+[![Ayandip’s github stats](https://github-readme-stats.vercel.app/api?username=Ayancodes2601)](https://github.com/Ayancodes2601)
 
 ✨Tech Stacks currently working with:
