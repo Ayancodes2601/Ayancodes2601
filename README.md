@@ -1,13 +1,13 @@
 ### Hi there 👋 I am Ayandip Garai
 
 
-Second Year Engineering Undergrad pursuing my B.Tech from Kalyani Government Engineering College. My major is Electronics and Communication, still I have an urge towards coding and development. 
+Final Year Engineering Undergrad pursuing my B.Tech from Kalyani Government Engineering College. My major is Electronics and Communication, but still I have an urge towards coding and development. 
 Currently exploring the paths of AI/ML, Robotics simulation, robotics model designing, deployment of robots, IoT and Core Electronics. 
-A tech freak, wanting to know about the current technological advancements in our society. Trying to make a difference in the society by following my passion.
+A tech freak, wanting to know about the current technological advancements in our society. Trying to make a difference in society by following my passion.
 
 
 - 🔭 I’m currently working on Natual Language Processing and Image Processing.
-- 🌱 I’m currently learning Deep Learning with Tensorflow and Keras and Blockchain Development.
+- 🌱 I’m currently learning Deep Learning with TensorFlow and Keras and Blockchain Development.
 - 👯 I’m looking to collaborate on Robotics and Deep Learning projects.
 - 🤔 I’m looking for help with Natural Language Processing.
 - 💬 Ask me about anything but my dreams and goals.
